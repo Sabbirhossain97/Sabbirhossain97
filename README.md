@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Sabbir Hossain
 #### I am a Web Developer
-I am a passionate web developer. Love to learn new things everyday
 
 Skills:  REACT / JS / HTML / CSS / TAILWIND CSS 
 
