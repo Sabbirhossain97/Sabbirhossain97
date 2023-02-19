@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Sabbir Hossain
 #### I am a Web Developer
 
-Skills:  REACT / JS / HTML / CSS / TAILWIND CSS 
+Skills:   JS / REACT / NEXTJS / HTML / CSS / TAILWIND CSS / MUI 
 
 - 🌱 I’m currently learning JavaScript 
 - 💬 Ask me about Web Development 
