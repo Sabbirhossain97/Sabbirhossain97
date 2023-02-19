@@ -7,7 +7,7 @@ Skills:   JS / REACT / NEXTJS / HTML / CSS / TAILWIND CSS / MUI
 - 💬 Ask me about Web Development 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbirhossain94)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbirhossain94&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabbirhossain94&show_icons=true)  
 
