@@ -1,9 +1,11 @@
 ### Hi there 👋, I'm Sabbir Hossain
 ## I am a Web Developer, Tech Enthusiast, Movie freak and Traveller
 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning TypeScript,Redux
 - 💬 Ask me about Web Development 
----
+- 👨‍💻 All of my projects are available at [https://sabbirontheweb.com/](https://sabbirontheweb.com/)
+- 📝 I regularly write articles on [https://blog.sabbirontheweb.com/](https://blog.sabbirontheweb.com/)
+- 📫 How to reach me **sabbirhossainbd199@gmail.com**
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
