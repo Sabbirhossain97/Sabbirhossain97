@@ -2,8 +2,8 @@
 ## I am a Web Developer, Tech Enthusiast and Traveller
 
 - 💬 Ask me about Web Development 
-- 👨‍💻 All of my projects are available at [https://portfolio-sabbirhossain94.vercel.app/)
-- 📝 I regularly write articles on [https://blog.sabbirontheweb.com/](https://blog.sabbirontheweb.com/)
+- 👨‍💻 All of my projects are available at [https://portfolio-sabbirhossain94.vercel.app/]
+- 📝 I regularly write articles on [https://react-blog-app-sabbirhossain94.vercel.app/]
 - 📫 How to reach me **sabbirhossainbd199@gmail.com**
 
 ### :hammer_and_wrench: Languages and Tools :
