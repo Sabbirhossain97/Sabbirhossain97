@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Sabbir Hossain
-## I am a Web Developer, Tech Enthusiast, Movie freak and Traveller
+## I am a Web Developer, Tech Enthusiast and Traveller
 
 - 💬 Ask me about Web Development 
 - 👨‍💻 All of my projects are available at [https://sabbirontheweb.com/](https://sabbirontheweb.com/)
