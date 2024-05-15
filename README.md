@@ -3,7 +3,7 @@
 
 - ✍️ I am currently learning NodeJS
 - 💬 Ask me about Web Development 
-- 👨‍💻 All of my projects are available at [https://portfolio-sabbirhossain94.vercel.app/]
+- 👨‍💻 All of my projects are available at [https://sabbir-hossain-six.vercel.app/]
 - 📝 I regularly write articles on [https://react-blog-app-sabbirhossain94.vercel.app/]
 - 📫 How to reach me **sabbirhossainbd199@gmail.com**
 
@@ -20,6 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
 ---
