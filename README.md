@@ -29,6 +29,3 @@
 
 ---
 
----
-
-![Profile views](https://gpvc.arturio.dev/Sabbirhossain97)   
