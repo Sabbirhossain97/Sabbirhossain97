@@ -29,8 +29,6 @@
 
 ---
 
-![GitHub metrics](https://metrics.lecoq.io/Sabbirhossain97)  
-
 ---
 
 ![Profile views](https://gpvc.arturio.dev/Sabbirhossain97)   
