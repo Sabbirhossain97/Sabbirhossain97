@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Sabbir Hossain
 ## I am a Web Developer, Tech Enthusiast and Traveller
 
-- ✍️ I am currently learning NodeJS
 - 💬 Ask me about Web Development 
 - 👨‍💻 All of my projects are available at [https://sabbir-hossain-six.vercel.app/]
 - 📝 I regularly write articles on [https://react-blog-app-sabbirhossain94.vercel.app/]
