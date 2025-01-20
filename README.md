@@ -6,7 +6,7 @@
 - 📝 I regularly write articles on [https://react-blog-app-sabbirhossain94.vercel.app/]
 - 📫 How to reach me **sabbirhossainbd199@gmail.com**
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages, Frameworks and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
