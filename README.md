@@ -3,7 +3,7 @@
 
 - 💬 Ask me about Web Development 
 - 👨‍💻 All of my projects are available at [https://sabbir-hossain-six.vercel.app/]
-- 📝 I regularly write articles on [https://react-blog-app-sabbirhossain94.vercel.app/]
+- 📝 I regularly write articles on [https://personal-blog-website-tau.vercel.app/]
 - 📫 How to reach me **sabbirhossainbd199@gmail.com**
 
 ### :hammer_and_wrench: Languages, Frameworks and Tools :
