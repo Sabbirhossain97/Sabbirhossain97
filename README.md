@@ -12,11 +12,6 @@
 > 🚀 **“Code is like humor. When you have to explain it, it’s bad.”**  
 >                                                       — *Cory House*
 
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sabbir.h.shawon)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://sabbir-hossain-six.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabbir-hossain-b73726214/)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sabbirhossainbd199@gmail.com) 
 
 ## :hammer_and_wrench: Tech Stack
 
@@ -54,7 +49,26 @@
 
 
 ## 📊 GitHub Stats
+<div align="center">
+  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbirhossain97&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=Sabbirhossain97&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
 
+</div>
+
+<h2 align="center">🌐 Socials</h2>
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sabbir.h.shawon)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://sabbir-hossain-six.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabbir-hossain-b73726214/)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sabbirhossainbd199@gmail.com) 
+
+</div>
+
+<div align="center">
+  
+![Profile views](https://komarev.com/ghpvc/?username=Sabbirhossain97&label=Profile%20views&color=6f42c1&style=flat-square)
+
+</div>
 
