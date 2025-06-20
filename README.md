@@ -1,5 +1,6 @@
 
-## 👋 Hi there! I'm Sabbir — Passionate Software Developer and Tech Enthusiast
+![0620](https://github.com/user-attachments/assets/055ee5ff-38bc-4e60-b468-903984fecf3b)
+## 👋 Hi there! I'm Sabbir — a Passionate Software Developer and Tech Enthusiast
 
 - 🚀 Turning ideas into interactive, scalable web applications
 - 💡 Focused on frontend development, but love exploring full-stack projects
