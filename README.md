@@ -3,9 +3,8 @@
 ## 👋 Hi there! I'm Sabbir — a Passionate Software Developer and Tech Enthusiast
 
 - 🚀 Turning ideas into interactive, scalable web applications
-- 💡 Focused on frontend development, but love exploring full-stack projects
 - ✍️ I share insights, dev tips, and deep dives through my blog
-- 📚 Lifelong learner — currently diving deeper into advanced JS, MERN stack,a nd AI applications
+- 📚 Lifelong learner — currently diving deeper into advanced JS, MERN stack, a nd AI applications
 - 🌱 Building cool side projects to push boundaries and learn by doing
 
 ## ✨ Inspiring Thought
